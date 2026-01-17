@@ -19,7 +19,7 @@ Instructions:
 
 3. Setting up the Blender plugin: Press the small arrow on the left of the SMO Level Importer tab in Preferences, a window will drop down. In the DAE Folder field,
 press on the folder icon on the right of it, then navigate to the Custom folder once viewing the folder with all of the .daes,
-press Accept. (EditorCore are no longer using to import .obj models the models are broken with no rig.)
+press Accept. (EditorCore are no longer using to import .obj models in the OdysseyModels folder. The models are broken with no rig.)
 
 ( Optional settings: "Exclude Objects", you can type in the name of objects to exclude them from  being imported, it is recommended that you add Mesh1_Model for an exclusion. 
 "Enable Debug Logging", Enables advanced debugging, ! THIS WILL SLOW THINGS DOWN ! )
