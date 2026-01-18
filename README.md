@@ -3,7 +3,7 @@ Blender plugin to import Super Mario Odyssey stages into Blender.
 
 ![image](https://raw.githubusercontent.com/memerglass/SMO-Blender-Level-Importer-DAE-Version/0fa75d7740da53ef61e72d01f5023b6df0aebc00/screenshot.png)
 
-Credits: exelix, MonsterDruide1, ChatGPT, Zee, Memerglass
+Credits: exelix, MonsterDruide1, ChatGPT, Zee, Drake
 
 Requirements:
 EditorCore with Super Mario Odyssey plugin & Blender 3.6 (Tested on 3.6 and 4.2, DOES NOT WORK ON 4.0+!)
